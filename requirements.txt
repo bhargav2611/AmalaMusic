@@ -2,6 +2,7 @@ pyrogram==1.4.16
 TgCrypto
 py-tgcalls==0.9.7
 pyyaml==5.4
+pykeyboard
 python-dotenv
 youtube_search_python
 requests
