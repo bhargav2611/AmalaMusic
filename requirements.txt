@@ -18,6 +18,7 @@ rich
 async-lru
 pyaes
 PySocks
+pykeyboard
 motor
 dnspython
 speedtest-cli
